@@ -1,8 +1,5 @@
-<style>
-  body {
-    background-color: black;
-  }
-</style>
+<div style="background-color: #000; color: #fff; padding: 20px;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Rampriya karthick from Paris</h1>
 <h3 align="center">Dynamic & Determined full Stack developer (MERN) </h3>
