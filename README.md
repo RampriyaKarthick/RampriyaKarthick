@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ecommerce app](https://dealzon.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://rpkportfolio.netlify.app/](https://rpkportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://rampriya-karthick.vercel.app/
 
 - 💬 Ask me about **React, MERN stack projects**
 
