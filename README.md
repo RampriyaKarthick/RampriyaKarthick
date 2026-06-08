@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **rampriya.karthick@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1uHSOB5Tng1anIEOvi7DsRLd_UIYCBD-m/view](https://drive.google.com/file/d/1uHSOB5Tng1anIEOvi7DsRLd_UIYCBD-m/view)](https://drive.google.com/file/d/1B4FkWVumUsG7RTZoSdPFIhQLQPEKxGPA/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1B4FkWVumUsG7RTZoSdPFIhQLQPEKxGPA/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm on a mission to turn all my 'to-do' comments into 'done' on GitHub!**
 
