@@ -55,12 +55,13 @@ I build web apps with the MERN stack, and I'm now focusing on **making them reli
 - API testing with Postman
 - Automation with JavaScript-based tools (learning and practising on my own projects)
 
-## 📊 GitHub stats
+## 📌 Featured projects
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rampriyakarthick&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=rampriyakarthick&layout=compact&theme=tokyonight&hide_border=true&locale=en" alt="Top languages"/>
-</p>
+| Project | What it is | Links |
+|---|---|---|
+| 🍽️ **Meal Planner** | MERN app to plan weekly meals, also my QA practice project | *coming soon* |
+| 🧪 **Meal Planner QA** | Test plan, test cases, bug reports and automated tests | *coming soon* |
+| 🛒 **Dealzon** | E-commerce app | [Live demo](https://dealzon.netlify.app/) |
 
 ## 💬 Let's talk
 
