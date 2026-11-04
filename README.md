@@ -10,19 +10,19 @@
   <a href="https://drive.google.com/file/d/1B4FkWVumUsG7RTZoSdPFIhQLQPEKxGPA/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume%20%2F%20CV-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume / CV"/></a>
 </p>
 
-<p align="center">🇬🇧 English &nbsp;|&nbsp; 🇫🇷 Français</p>
+<p align="center">EN · English &nbsp;|&nbsp; FR · Français</p>
 
 ---
 
 ## 🧭 About me · À propos
 
-| 🇬🇧 English | 🇫🇷 Français |
+| EN · English | FR · Français |
 |---|---|
 | I build web apps with the MERN stack, and I'm now focusing on **making them reliable**. I'm transitioning into a **software tester / QA** role, combining my development background with a quality mindset: reading code, spotting edge cases and automating checks. | Je développe des applications web avec la stack MERN et je me concentre désormais sur leur **fiabilité**. Je me réoriente vers le **test logiciel / QA**, en combinant mon expérience de développement avec un esprit qualité : lire le code, repérer les cas limites et automatiser les vérifications. |
 
 ## 🚀 What I'm working on · Mes projets en cours
 
-| 🇬🇧 English | 🇫🇷 Français |
+| EN · English | FR · Français |
 |---|---|
 | 🍽️ **Meal Planner app**: plan weekly meals, built with MERN. It is also my testing playground: test cases, bug reports and automated tests.<br>🧪 **Learning QA**: test design, manual and exploratory testing, API testing, test automation.<br>🛒 Previous project: [Dealzon](https://dealzon.netlify.app/), an e-commerce app. | 🍽️ **Application Meal Planner** : planification des repas de la semaine, développée en MERN. C'est aussi mon terrain d'entraînement au test : cas de test, rapports de bugs et tests automatisés.<br>🧪 **Apprentissage du QA** : conception de tests, tests manuels et exploratoires, tests d'API, automatisation.<br>🛒 Projet précédent : [Dealzon](https://dealzon.netlify.app/), une application e-commerce. |
 
@@ -54,7 +54,7 @@
 
 ## 🎯 What I bring to QA · Ce que j'apporte au QA
 
-| 🇬🇧 English | 🇫🇷 Français |
+| EN · English | FR · Français |
 |---|---|
 | • Developer's eye: I can read code and understand how a bug happens, not just that it happens<br>• Test case writing, bug reporting, exploratory testing<br>• API testing with Postman<br>• Automation with JavaScript-based tools (learning and practising on my own projects) | • Regard de développeur : je lis le code et comprends comment un bug se produit, pas seulement qu'il existe<br>• Rédaction de cas de test, rapports de bugs, tests exploratoires<br>• Tests d'API avec Postman<br>• Automatisation avec des outils JavaScript (en apprentissage, pratique sur mes propres projets) |
 
@@ -69,23 +69,6 @@
 ## 💭 Thirukkural · Tirukkural (on hard work · sur l'effort)
 
 <p align="center">
-  <b>முயற்சி திருவினை ஆக்கும் முயலாமை<br>இன்மை புகுத்தி விடும்.</b>
-</p>
-
-<p align="center">
-  <i>Muyarchi thiruvinai aakkum muyalaamai<br>inmai pukuthi vidum.</i>
-</p>
-
-<p align="center">
-  🇬🇧 Hard work brings prosperity; lack of effort leads to poverty.<br>
-  🇫🇷 L'effort apporte la prospérité ; l'absence d'effort conduit à la pauvreté.
-</p>
-
-<p align="center"><sub>Thiruvalluvar · Thirukkural 616 (Perseverance · Persévérance)</sub></p>
-
-<p align="center">&nbsp;</p>
-
-<p align="center">
   <b>தெய்வத்தான் ஆகாது எனினும் முயற்சிதன்<br>மெய்வருத்தக் கூலி தரும்.</b>
 </p>
 
@@ -94,15 +77,15 @@
 </p>
 
 <p align="center">
-  🇬🇧 Even if fate does not allow it, effort still pays its wages for the toil of the body.<br>
-  🇫🇷 Même si le destin ne le permet pas, l'effort paie le salaire de la peine que l'on s'est donnée.
+  <b>EN</b> Even if fate does not allow it, effort still pays its wages for the toil of the body.<br>
+  <b>FR</b> Même si le destin ne le permet pas, l'effort paie le salaire de la peine que l'on s'est donnée.
 </p>
 
 <p align="center"><sub>Thiruvalluvar · Thirukkural 619 (Perseverance · Persévérance)</sub></p>
 
 ## 💬 Let's talk · Parlons-en
 
-| 🇬🇧 English | 🇫🇷 Français |
+| EN · English | FR · Français |
 |---|---|
 | Ask me about **React, MERN projects, or getting started with testing**. I'm open to junior QA / tester opportunities (alternance or full-time) in the Paris region. | Posez-moi vos questions sur **React, les projets MERN ou les premiers pas dans le test logiciel**. Je suis disponible pour des opportunités de QA / testeur junior (alternance ou CDI) en région parisienne. |
 
