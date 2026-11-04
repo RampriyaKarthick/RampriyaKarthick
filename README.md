@@ -20,7 +20,7 @@
 |---|---|
 | I build web apps with the MERN stack, and I'm now focusing on **making them reliable**. I'm transitioning into a **software tester / QA** role, combining my development background with a quality mindset: reading code, spotting edge cases and automating checks. | Je développe des applications web avec la stack MERN et je me concentre désormais sur leur **fiabilité**. Je me réoriente vers le **test logiciel / QA**, en combinant mon expérience de développement avec un esprit qualité : lire le code, repérer les cas limites et automatiser les vérifications. |
 
-## 🚀 What I'm working on · Mes projets en cours
+## What I'm working on · Mes projets en cours
 
 | EN · English | FR · Français |
 |---|---|
